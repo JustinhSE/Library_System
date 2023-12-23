@@ -33,6 +33,4 @@ This project is a command-line interface (CLI) program for managing a library's 
 3. To quit the program, enter `Q` at the menu.
 
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
