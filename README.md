@@ -1,4 +1,4 @@
-# Library_System
+# 📚Library_System
 
 This project is a command-line interface (CLI) program for managing a library's system. The program is written in Java and provides the following menu options:
 
