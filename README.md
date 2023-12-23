@@ -21,7 +21,7 @@ This project is a command-line interface (CLI) program for managing a library's 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/JustinhSE/Library_System`
+1. Clone the repository: `git clone https://github.com/**username**/Library_System`
 2. Change into the project directory: `cd library-management-system`
 3. Compile the program: `javac Main.java`
 4. Run the program: `java Main`
