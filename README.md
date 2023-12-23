@@ -15,10 +15,10 @@ This project is a command-line interface (CLI) program for managing a library's 
 - **C** - Check In Last Return: Allows the user to check in the last book that was returned to the library.
 - **P** - Print Return Stack: Allows the user to print the entire return stack or a subset of it based on specific criteria, such as ISBN number, book name, author name, genre, year, and condition.
 - **Q** - Quit: Allows the user to quit the program.
-## Data Types & Structures used
-- Array(library of shelves, length 10) 
-- Linked List(stored books in each shelf) 
-- Stacks(return stack)
+## Data Structures & Types Used
+- Array (library of shelves, length 10) 
+- Linked List (stored books in each shelf) 
+- Stacks (return stack)
 - Enums(Sorting Criteria/Book Condition)
 
 ## Requirements
