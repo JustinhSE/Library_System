@@ -1,7 +1,5 @@
 # Library_System
 
-# Library Management System
-
 This project is a command-line interface (CLI) program for managing a library's system. The program is written in Java and provides the following menu options:
 
 - **B** - Manage Book Repository: Allows the user to add, remove, print, and sort books in the library's repository based on specific criteria, such as ISBN number, book name, author name, genre, year, and condition.
@@ -34,9 +32,6 @@ This project is a command-line interface (CLI) program for managing a library's 
 2. Enter the letter corresponding to the desired action and follow the prompts.
 3. To quit the program, enter `Q` at the menu.
 
-## Contributing
-
-Contributions are welcome! If you would like to contribute to this project, please fork the repository and submit a pull request.
 
 ## License
 
