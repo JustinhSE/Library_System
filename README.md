@@ -8,12 +8,18 @@ This project is a command-line interface (CLI) program for managing a library's 
 - **R** - Remove Book: Allows the user to remove a book from the library's repository by entering the book's ISBN number.
 - **P** - Print Repository: Allows the user to print the entire book repository or a subset of it based on specific criteria, such as ISBN number, book name, author name, genre, year, and condition.
 - **S** - Sort Shelf: Allows the user to sort the books in the library's repository based on specific criteria, such as ISBN number, book name, author name, genre, year, and condition.
+- **Return Commands**
 - **R** - Manage Return Stack: Allows the user to manage the return stack, which stores the books that are returned to the library.
 - **R** - Return Book: Allows the user to return a book to the library by entering the book's ISBN number.
 - **L** - See Last Return: Allows the user to see the last book that was returned to the library.
 - **C** - Check In Last Return: Allows the user to check in the last book that was returned to the library.
 - **P** - Print Return Stack: Allows the user to print the entire return stack or a subset of it based on specific criteria, such as ISBN number, book name, author name, genre, year, and condition.
 - **Q** - Quit: Allows the user to quit the program.
+## Data Types & Structures used
+- Array(library of shelves, length 10) 
+- Linked List(stored books in each shelf) 
+- Stacks(return stack)
+- Enums(Sorting Criteria/Book Condition)
 
 ## Requirements
 
