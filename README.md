@@ -32,5 +32,5 @@ This project is a command-line interface (CLI) program for managing a library's 
 2. Enter the letter corresponding to the desired action and follow the prompts.
 3. To quit the program, enter `Q` at the menu.
 
-
-
+## Fun Fact
+- This is my first project where I coded 1000+ lines of code! Have fun and enjoy! 🎉🎊👨‍💻
